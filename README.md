@@ -1,4 +1,4 @@
-# rest-services
+# REST-services
 REST is acronym for REpresentational State Transfer. It is architectural style for distributed hypermedia systems and was first presented by Roy Fielding in 2000 in his famous dissertation.
 
 # Principles of REST
